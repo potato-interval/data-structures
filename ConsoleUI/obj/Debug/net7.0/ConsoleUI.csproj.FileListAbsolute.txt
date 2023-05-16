@@ -1,0 +1,36 @@
+D:\edu\dataStructuresAndAlgorithms\DataStructures\ConsoleUI\bin\Debug\net7.0\ConsoleUI.exe
+D:\edu\dataStructuresAndAlgorithms\DataStructures\ConsoleUI\bin\Debug\net7.0\ConsoleUI.deps.json
+D:\edu\dataStructuresAndAlgorithms\DataStructures\ConsoleUI\bin\Debug\net7.0\ConsoleUI.runtimeconfig.json
+D:\edu\dataStructuresAndAlgorithms\DataStructures\ConsoleUI\bin\Debug\net7.0\ConsoleUI.dll
+D:\edu\dataStructuresAndAlgorithms\DataStructures\ConsoleUI\bin\Debug\net7.0\ConsoleUI.pdb
+D:\edu\dataStructuresAndAlgorithms\DataStructures\ConsoleUI\bin\Debug\net7.0\IntSinglyLinkedList.dll
+D:\edu\dataStructuresAndAlgorithms\DataStructures\ConsoleUI\bin\Debug\net7.0\IntSinglyLinkedList.pdb
+D:\edu\dataStructuresAndAlgorithms\DataStructures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.csproj.AssemblyReference.cache
+D:\edu\dataStructuresAndAlgorithms\DataStructures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\edu\dataStructuresAndAlgorithms\DataStructures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.AssemblyInfoInputs.cache
+D:\edu\dataStructuresAndAlgorithms\DataStructures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.AssemblyInfo.cs
+D:\edu\dataStructuresAndAlgorithms\DataStructures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\edu\dataStructuresAndAlgorithms\DataStructures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.csproj.CopyComplete
+D:\edu\dataStructuresAndAlgorithms\DataStructures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.dll
+D:\edu\dataStructuresAndAlgorithms\DataStructures\ConsoleUI\obj\Debug\net7.0\refint\ConsoleUI.dll
+D:\edu\dataStructuresAndAlgorithms\DataStructures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.pdb
+D:\edu\dataStructuresAndAlgorithms\DataStructures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.genruntimeconfig.cache
+D:\edu\dataStructuresAndAlgorithms\DataStructures\ConsoleUI\obj\Debug\net7.0\ref\ConsoleUI.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\ConsoleUI\bin\Debug\net7.0\ConsoleUI.exe
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\ConsoleUI\bin\Debug\net7.0\ConsoleUI.deps.json
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\ConsoleUI\bin\Debug\net7.0\ConsoleUI.runtimeconfig.json
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\ConsoleUI\bin\Debug\net7.0\ConsoleUI.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\ConsoleUI\bin\Debug\net7.0\ConsoleUI.pdb
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.csproj.AssemblyReference.cache
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.AssemblyInfoInputs.cache
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.AssemblyInfo.cs
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.csproj.CopyComplete
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\ConsoleUI\obj\Debug\net7.0\refint\ConsoleUI.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.pdb
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.genruntimeconfig.cache
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\ConsoleUI\obj\Debug\net7.0\ref\ConsoleUI.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\ConsoleUI\bin\Debug\net7.0\DataStructures.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\ConsoleUI\bin\Debug\net7.0\DataStructures.pdb
