@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
-      "DataStructures/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/DataStructures.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/DataStructures.dll": {}
-        }
-      }
-    }
+    "net7.0": {}
   },
-  "libraries": {
-    "DataStructures/1.0.0": {
-      "type": "project",
-      "path": "../DataStructures/DataStructures.csproj",
-      "msbuildProject": "../DataStructures/DataStructures.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": [
-      "DataStructures >= 1.0.0"
-    ]
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\hehlo\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repoes\\data-structures\\ConsoleUI\\ConsoleUI.csproj",
-      "projectName": "ConsoleUI",
-      "projectPath": "D:\\repoes\\data-structures\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "D:\\repoes\\data-structures\\DataStructures\\DataStructures.csproj",
+      "projectName": "DataStructures",
+      "projectPath": "D:\\repoes\\data-structures\\DataStructures\\DataStructures.csproj",
       "packagesPath": "C:\\Users\\hehlo\\.nuget\\packages\\",
-      "outputPath": "D:\\repoes\\data-structures\\ConsoleUI\\obj\\",
+      "outputPath": "D:\\repoes\\data-structures\\DataStructures\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,11 +40,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "D:\\repoes\\data-structures\\DataStructures\\DataStructures.csproj": {
-              "projectPath": "D:\\repoes\\data-structures\\DataStructures\\DataStructures.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

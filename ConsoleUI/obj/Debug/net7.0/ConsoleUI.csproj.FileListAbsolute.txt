@@ -34,3 +34,21 @@ D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\ConsoleUI\obj\
 D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\ConsoleUI\obj\Debug\net7.0\ref\ConsoleUI.dll
 D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\ConsoleUI\bin\Debug\net7.0\DataStructures.dll
 D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\ConsoleUI\bin\Debug\net7.0\DataStructures.pdb
+D:\repoes\data-structures\ConsoleUI\bin\Debug\net7.0\ConsoleUI.exe
+D:\repoes\data-structures\ConsoleUI\bin\Debug\net7.0\ConsoleUI.deps.json
+D:\repoes\data-structures\ConsoleUI\bin\Debug\net7.0\ConsoleUI.runtimeconfig.json
+D:\repoes\data-structures\ConsoleUI\bin\Debug\net7.0\ConsoleUI.dll
+D:\repoes\data-structures\ConsoleUI\bin\Debug\net7.0\ConsoleUI.pdb
+D:\repoes\data-structures\ConsoleUI\bin\Debug\net7.0\DataStructures.dll
+D:\repoes\data-structures\ConsoleUI\bin\Debug\net7.0\DataStructures.pdb
+D:\repoes\data-structures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.csproj.AssemblyReference.cache
+D:\repoes\data-structures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\repoes\data-structures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.AssemblyInfoInputs.cache
+D:\repoes\data-structures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.AssemblyInfo.cs
+D:\repoes\data-structures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\repoes\data-structures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.csproj.CopyComplete
+D:\repoes\data-structures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.dll
+D:\repoes\data-structures\ConsoleUI\obj\Debug\net7.0\refint\ConsoleUI.dll
+D:\repoes\data-structures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.pdb
+D:\repoes\data-structures\ConsoleUI\obj\Debug\net7.0\ConsoleUI.genruntimeconfig.cache
+D:\repoes\data-structures\ConsoleUI\obj\Debug\net7.0\ref\ConsoleUI.dll

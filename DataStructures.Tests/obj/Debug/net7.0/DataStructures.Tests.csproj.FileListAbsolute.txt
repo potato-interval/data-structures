@@ -1,0 +1,306 @@
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\CoverletSourceRootsMapping
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\testhost.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\testhost.exe
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\xunit.runner.reporters.netcoreapp10.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\xunit.runner.utility.netcoreapp10.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\DataStructures.Tests.deps.json
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\DataStructures.Tests.runtimeconfig.json
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\DataStructures.Tests.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\DataStructures.Tests.pdb
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\xunit.abstractions.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\xunit.assert.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\xunit.core.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\xunit.execution.dotnet.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\DataStructures.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\bin\Debug\net7.0\DataStructures.pdb
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\obj\Debug\net7.0\DataStructures.Tests.csproj.AssemblyReference.cache
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\obj\Debug\net7.0\DataStructures.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\obj\Debug\net7.0\DataStructures.Tests.AssemblyInfoInputs.cache
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\obj\Debug\net7.0\DataStructures.Tests.AssemblyInfo.cs
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\obj\Debug\net7.0\DataStructures.Tests.csproj.CoreCompileInputs.cache
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\obj\Debug\net7.0\DataStructures.Tests.csproj.CopyComplete
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\obj\Debug\net7.0\DataStructures.Tests.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\obj\Debug\net7.0\refint\DataStructures.Tests.dll
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\obj\Debug\net7.0\DataStructures.Tests.pdb
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\obj\Debug\net7.0\DataStructures.Tests.genruntimeconfig.cache
+D:\edu\Data Structures and Algorithms\cs-solutions\DataStructures\MyLinkedList.Tests\obj\Debug\net7.0\ref\DataStructures.Tests.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\CoverletSourceRootsMapping
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\testhost.exe
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\testhost.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\xunit.runner.reporters.netcoreapp10.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\xunit.runner.utility.netcoreapp10.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\DataStructures.Tests.deps.json
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\DataStructures.Tests.runtimeconfig.json
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\DataStructures.Tests.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\DataStructures.Tests.pdb
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\xunit.abstractions.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\xunit.assert.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\xunit.core.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\xunit.execution.dotnet.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\DataStructures.dll
+D:\repoes\data-structures\MyLinkedList.Tests\bin\Debug\net7.0\DataStructures.pdb
+D:\repoes\data-structures\MyLinkedList.Tests\obj\Debug\net7.0\DataStructures.Tests.csproj.AssemblyReference.cache
+D:\repoes\data-structures\MyLinkedList.Tests\obj\Debug\net7.0\DataStructures.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\repoes\data-structures\MyLinkedList.Tests\obj\Debug\net7.0\DataStructures.Tests.AssemblyInfoInputs.cache
+D:\repoes\data-structures\MyLinkedList.Tests\obj\Debug\net7.0\DataStructures.Tests.AssemblyInfo.cs
+D:\repoes\data-structures\MyLinkedList.Tests\obj\Debug\net7.0\DataStructures.Tests.csproj.CoreCompileInputs.cache
+D:\repoes\data-structures\MyLinkedList.Tests\obj\Debug\net7.0\DataStructures.Tests.csproj.CopyComplete
+D:\repoes\data-structures\MyLinkedList.Tests\obj\Debug\net7.0\DataStructures.Tests.dll
+D:\repoes\data-structures\MyLinkedList.Tests\obj\Debug\net7.0\refint\DataStructures.Tests.dll
+D:\repoes\data-structures\MyLinkedList.Tests\obj\Debug\net7.0\DataStructures.Tests.pdb
+D:\repoes\data-structures\MyLinkedList.Tests\obj\Debug\net7.0\DataStructures.Tests.genruntimeconfig.cache
+D:\repoes\data-structures\MyLinkedList.Tests\obj\Debug\net7.0\ref\DataStructures.Tests.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\CoverletSourceRootsMapping
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\testhost.exe
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\testhost.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\xunit.runner.reporters.netcoreapp10.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\xunit.runner.utility.netcoreapp10.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\DataStructures.Tests.deps.json
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\DataStructures.Tests.runtimeconfig.json
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\DataStructures.Tests.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\DataStructures.Tests.pdb
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\xunit.abstractions.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\xunit.assert.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\xunit.core.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\xunit.execution.dotnet.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\DataStructures.dll
+D:\repoes\data-structures\DataStructures.Tests\bin\Debug\net7.0\DataStructures.pdb
+D:\repoes\data-structures\DataStructures.Tests\obj\Debug\net7.0\DataStructures.Tests.csproj.AssemblyReference.cache
+D:\repoes\data-structures\DataStructures.Tests\obj\Debug\net7.0\DataStructures.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\repoes\data-structures\DataStructures.Tests\obj\Debug\net7.0\DataStructures.Tests.AssemblyInfoInputs.cache
+D:\repoes\data-structures\DataStructures.Tests\obj\Debug\net7.0\DataStructures.Tests.AssemblyInfo.cs
+D:\repoes\data-structures\DataStructures.Tests\obj\Debug\net7.0\DataStructures.Tests.csproj.CoreCompileInputs.cache
+D:\repoes\data-structures\DataStructures.Tests\obj\Debug\net7.0\DataStructures.Tests.csproj.CopyComplete
+D:\repoes\data-structures\DataStructures.Tests\obj\Debug\net7.0\DataStructures.Tests.dll
+D:\repoes\data-structures\DataStructures.Tests\obj\Debug\net7.0\refint\DataStructures.Tests.dll
+D:\repoes\data-structures\DataStructures.Tests\obj\Debug\net7.0\DataStructures.Tests.pdb
+D:\repoes\data-structures\DataStructures.Tests\obj\Debug\net7.0\DataStructures.Tests.genruntimeconfig.cache
+D:\repoes\data-structures\DataStructures.Tests\obj\Debug\net7.0\ref\DataStructures.Tests.dll
