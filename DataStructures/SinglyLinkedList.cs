@@ -104,7 +104,7 @@ namespace DataStructures
             return data;
         }
 
-        public int IndexOf(T value)
+            public int IndexOf(T value)
         {
             Node<T> trav = head;
 
