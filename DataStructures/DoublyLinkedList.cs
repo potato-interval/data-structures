@@ -84,7 +84,7 @@ namespace DataStructures
         {
             if (IsEmpty())
             {
-                throw new InvalidOperationException();
+                throw new InvalidOperationException("Can't PeekFirst(): the Linked List is empty!");
             }
             return head.data;
         }
@@ -93,7 +93,7 @@ namespace DataStructures
         {
             if (IsEmpty())
             { 
-                throw new InvalidOperationException(); 
+                throw new InvalidOperationException("Can't PeekLast(): the Linked List is empty!"); 
             }
             return tail.data;
         }
@@ -102,7 +102,7 @@ namespace DataStructures
         {
             if (IsEmpty())
             {
-                throw new InvalidOperationException();
+                throw new InvalidOperationException("Can't RemoveFirst(): the Linked List is empty!");
             }
             
             int? data = head.data;
@@ -126,7 +126,7 @@ namespace DataStructures
         {
             if (IsEmpty())
             { 
-                throw new InvalidOperationException();
+                throw new InvalidOperationException("Can't RemoveLast(): the Linked List is empty!");
             }
 
             int? data = tail.data;
@@ -176,7 +176,7 @@ namespace DataStructures
         {
             if (index < 0 || index >= size)
             {
-                throw new ArgumentOutOfRangeException();
+                throw new ArgumentOutOfRangeException($"Can't RemoveAt({index}): Index is out of range!");
             }
 
             int localIndex = 0;

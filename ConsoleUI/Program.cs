@@ -20,6 +20,13 @@ namespace ConsoleUI
             doublyList.RemoveAt(0);
 
             Console.WriteLine(doublyList);
+            
+            doublyList.Add(6);
+            doublyList.Add(6);
+            doublyList.Clear();
+            Console.WriteLine(doublyList);
+
+            doublyList.RemoveLast();
         }
     }
 }
