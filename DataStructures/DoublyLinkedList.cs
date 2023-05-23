@@ -6,39 +6,43 @@ using System.Threading.Tasks;
 
 namespace DataStructures
 {
-    public class DoublyLinkedList
+    public class DoublyLinkedList<T> where T : class
     {
-        private Node? head = null;
-        private Node? tail = null;
+        private Node<T>? head = null;
+        private Node<T>? tail = null;
         private int size = 0;
 
-        internal class Node
+        internal class Node<T> 
         {
-            internal int? data;
-            internal Node? next;
-            internal Node? prev;
+            internal T? data;
+            internal Node<T>? next;
+            internal Node<T>? prev;
 
-            public Node(int? data, Node? prev, Node? next)
+            public Node(T? data, Node<T>? prev, Node<T>? next)
             {
                 this.data = data;
                 this.prev = prev;
                 this.next = next;
             }
 
-            public override string ToString()
-                => data.ToString();
+            public override string? ToString() => data.ToString();
         }
 
         public void Clear()
         {
-            Node? traverse = head;
+            Node<T>? traverse = head;
+
             while (traverse != null)
             {
-                Node? next = traverse.next;
-                traverse.prev = traverse.next = null;
+                Node<T>? next = traverse.next;
+
+                traverse.prev = null;
+                traverse.next = null;
                 traverse.data = null;
+                
                 traverse = next;
             }
+
             head = tail = null;
             size = 0;
         }
@@ -47,40 +51,40 @@ namespace DataStructures
 
         public bool IsEmpty() => size == 0;
 
-        public void Add(int? data)
+        public void Add(T data)
         {
             AddLast(data);
         }
 
-        public void AddFirst(int? data)
+        public void AddFirst(T data)
         {
             if (IsEmpty())
             {
-                head = tail = new Node(data: data, prev: null, next: null);
+                head = tail = new Node<T>(data: data, prev: null, next: null);
             }
             else
             {
-                head.prev = new Node(data: data, prev: null, next: head);
+                head.prev = new Node<T>(data: data, prev: null, next: head);
                 head = head.prev;
             }
             size++;
         }
 
-        public void AddLast(int? data)
+        public void AddLast(T data)
         {
             if (IsEmpty())
             {
-                head = tail = new Node(data: data, prev: null, next: null);
+                head = tail = new Node<T>(data: data, prev: null, next: null);
             }
             else
             {
-                tail.next = new Node(data: data, prev: tail, next: null);
+                tail.next = new Node<T>(data: data, prev: tail, next: null);
                 tail = tail.next;
             }
             size++;
         }
 
-        public int? PeekFirst()
+        public T? PeekFirst()
         {
             if (IsEmpty())
             {
@@ -89,7 +93,7 @@ namespace DataStructures
             return head.data;
         }
 
-        public int? PeekLast()
+        public T? PeekLast()
         {
             if (IsEmpty())
             { 
@@ -98,14 +102,14 @@ namespace DataStructures
             return tail.data;
         }
 
-        public int? RemoveFirst()
+        public T? RemoveFirst()
         {
             if (IsEmpty())
             {
                 throw new InvalidOperationException("Can't RemoveFirst(): the Linked List is empty!");
             }
             
-            int? data = head.data;
+            T? data = head.data;
             
             head = head.next;
             size--;
@@ -122,14 +126,14 @@ namespace DataStructures
             return data;
         }
 
-        public int? RemoveLast()
+        public T? RemoveLast()
         {
             if (IsEmpty())
             { 
                 throw new InvalidOperationException("Can't RemoveLast(): the Linked List is empty!");
             }
 
-            int? data = tail.data;
+            T? data = tail.data;
 
             tail = tail.prev;
             size--;
@@ -146,7 +150,7 @@ namespace DataStructures
             return data;
         }
 
-        private int? Remove(Node? node)
+        private T? Remove(Node<T> node)
         {
             if (node.prev == null)
             {
@@ -161,7 +165,7 @@ namespace DataStructures
             node.next.prev = node.prev;
             node.prev.next = node.next;
 
-            int? data = node.data;
+            T? data = node.data;
 
             node.data = null;
             node.next = null;
@@ -172,7 +176,7 @@ namespace DataStructures
             return data;
         }
 
-        public int? RemoveAt(int index)
+        public T? RemoveAt(int index)
         {
             if (index < 0 || index >= size)
             {
@@ -180,7 +184,7 @@ namespace DataStructures
             }
 
             int localIndex = 0;
-            Node? traverse = head;
+            Node<T>? traverse = head;
             while (localIndex < index)
             {
                 traverse = traverse.next;
@@ -202,7 +206,7 @@ namespace DataStructures
 
         public bool Remove(Object obj)
         {
-            Node? traverse;
+            Node<T>? traverse;
 
             if (obj == null)
             {
@@ -233,7 +237,7 @@ namespace DataStructures
         public int IndexOf(Object obj)
         {
             int index = 0;
-            Node? traverse;
+            Node<T>? traverse;
 
             if (obj == null)
             {
@@ -265,7 +269,7 @@ namespace DataStructures
         {
             String? list = "[ ";
 
-            Node? traverse = head;
+            Node<T>? traverse = head;
             while (traverse != null)
             {
                 list += traverse.data.ToString();

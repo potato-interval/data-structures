@@ -10,10 +10,10 @@ namespace ConsoleUI
 
             Console.WriteLine(list);
 
-            var doublyList = new DoublyLinkedList();
-            doublyList.Add(1);
-            doublyList.Add(3);
-            doublyList.Add(6);
+            var doublyList = new DoublyLinkedList<string>();
+            doublyList.Add("1");
+            doublyList.Add("3");
+            doublyList.Add("6");
             Console.WriteLine(doublyList);
 
             doublyList.RemoveAt(1);
@@ -21,12 +21,21 @@ namespace ConsoleUI
 
             Console.WriteLine(doublyList);
             
-            doublyList.Add(6);
-            doublyList.Add(6);
-            doublyList.Clear();
+            doublyList.Add("5");
+            doublyList.Add("6");
             Console.WriteLine(doublyList);
 
-            doublyList.RemoveLast();
+            doublyList.RemoveAt(1);
+            Console.WriteLine(doublyList);
+
+            doublyList.Remove("6");
+            Console.WriteLine(doublyList);
+
+            if (doublyList.Remove("6"))
+            {
+                Console.WriteLine("yes");
+            }
+
         }
     }
 }
