@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections;
 
 namespace DataStructures
 {
@@ -89,7 +84,8 @@ namespace DataStructures
         {
             if (IsEmpty())
             {
-                throw new InvalidOperationException("Can't PeekFirst(): the Linked List is empty!");
+                throw new InvalidOperationException(
+                    "Can't PeekFirst(): the Linked List is empty!");
             }
             return head.data;
         }
@@ -98,7 +94,8 @@ namespace DataStructures
         {
             if (IsEmpty())
             { 
-                throw new InvalidOperationException("Can't PeekLast(): the Linked List is empty!"); 
+                throw new InvalidOperationException(
+                    "Can't PeekLast(): the Linked List is empty!"); 
             }
             return tail.data;
         }
@@ -107,7 +104,8 @@ namespace DataStructures
         {
             if (IsEmpty())
             {
-                throw new InvalidOperationException("Can't RemoveFirst(): the Linked List is empty!");
+                throw new InvalidOperationException(
+                    "Can't RemoveFirst(): the Linked List is empty!");
             }
             
             T? data = head.data;
@@ -131,7 +129,8 @@ namespace DataStructures
         {
             if (IsEmpty())
             { 
-                throw new InvalidOperationException("Can't RemoveLast(): the Linked List is empty!");
+                throw new InvalidOperationException(
+                    "Can't RemoveLast(): the Linked List is empty!");
             }
 
             T? data = tail.data;
@@ -181,7 +180,8 @@ namespace DataStructures
         {
             if (index < 0 || index >= size)
             {
-                throw new ArgumentOutOfRangeException($"Can't RemoveAt({index}): Index is out of range!");
+                throw new ArgumentOutOfRangeException(
+                    $"Can't RemoveAt({index}): Index is out of range!");
             }
 
             int localIndex = 0;
@@ -211,7 +211,9 @@ namespace DataStructures
 
             if (obj == null)
             {
-                for (traverse = head; traverse != null; traverse = traverse.next)
+                for (traverse = head; 
+                    traverse != null; 
+                    traverse = traverse.next)
                 {
                     if (traverse.data == null)
                     {
@@ -222,7 +224,9 @@ namespace DataStructures
             }
             else
             {
-                for (traverse = head; traverse != null; traverse = traverse.next)
+                for (traverse = head; 
+                    traverse != null; 
+                    traverse = traverse.next)
                 {
                     if (obj.Equals(traverse.data))
                     {
@@ -242,7 +246,9 @@ namespace DataStructures
 
             if (obj == null)
             {
-                for (traverse = head; traverse != null; traverse = traverse.next, index++)
+                for (traverse = head; 
+                    traverse != null; 
+                    traverse = traverse.next, index++)
                 {
                     if (traverse.data == null)
                     {
@@ -252,7 +258,9 @@ namespace DataStructures
             }
             else
             {
-                for (traverse = head; traverse != null; traverse = traverse.next, index++)
+                for (traverse = head; 
+                    traverse != null; 
+                    traverse = traverse.next, index++)
                 {
                     if (obj.Equals(traverse.data))
                     {

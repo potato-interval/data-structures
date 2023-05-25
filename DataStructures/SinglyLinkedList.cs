@@ -1,10 +1,8 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
-using System.Data;
 
 namespace DataStructures
 {
-   public class SinglyLinkedList<T> : IEnumerable<T>
+    public class SinglyLinkedList<T> : IEnumerable<T>
     {
         private int size = 0;
         private Node<T> head = null;
